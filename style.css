@@ -37,3 +37,9 @@ ul{
     font-size: 30px;
     font-style: bold;
 }
+
+#sti {
+    color: fuchsia;
+    font-size: 45px;
+    font-style: italic;
+}
